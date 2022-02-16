@@ -1,3 +1,5 @@
+Submission for one of my assignments for COMP1000 (v.1) Unix and C Programming at Curtin. The task was to make a string replacing algorithm in C.
+
 String Replace
 
 Author: Austin Bevacqua
